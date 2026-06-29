@@ -21,19 +21,19 @@ A modular Sudoku Solver and Generator implemented in C++ using Backtracking and 
 
 ## Screenshots
 
-# Main Menu
+## Main Menu
 
 ![Main Menu](screenshots/menu.png)
 
 ---
 
-# Generated Puzzle
+## Generated Puzzle
 
 ![Generated Puzzle](screenshots/generated.png)
 
 ---
 
-# Solved Puzzle
+## Solved Puzzle
 
 ![Solved Puzzle](screenshots/solved.png)
 
